@@ -1,16 +1,24 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | <https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/> |
 
-<!--
-**Hannibal00/Hannibal00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ----------------- |--------------- |
 
-Here are some ideas to get you started:
+| 这个作业要求在哪里| <https://edu.cnblogs.com/campus/gdgy/CSGrade22-34/homework/13228> |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 这个作业的目标 | <加强对软件工程技术的理解，学会使用博客和github，学会使用git的简单使用和markdowm语法，对之后的课程学习打下基础> |
+
+# 自我介绍
+我的名字叫梁俊轩，是来自计科3班的一名学生，平时工作认真负责，爱好广泛，爱好是打游戏、二次元，最喜欢的运动是足球。
+
+# 软工五问
+1、怎么判断开发一个软件过程中的方案是否可行？
+2、软件工程这门学科产生的原因是什么？主要是为了解决什么问题？
+3、软件的黑白盒测试是什么？
+4、软件开发的流程是什么？
+5、怎么较为精确地判断用户需求，得到用户的认同？
+
+# 收获期望
+学好相应的知识，提高自己的个人能力，熟悉软件开发的具体流程，培养团队合作的能力，为自己的未来就业做好准备。
+
+# GITHUB
+个人地址： https://github.com/Hannibal00
+仓库地址： https://github.com/Hannibal00/Hannibal00
